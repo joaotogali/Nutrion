@@ -1,0 +1,14 @@
+C:\Users\joaog\Documents\Desenvolvimento\Nutrion\Nutrion\bin\Debug\net8.0\Nutrion.exe
+C:\Users\joaog\Documents\Desenvolvimento\Nutrion\Nutrion\bin\Debug\net8.0\Nutrion.deps.json
+C:\Users\joaog\Documents\Desenvolvimento\Nutrion\Nutrion\bin\Debug\net8.0\Nutrion.runtimeconfig.json
+C:\Users\joaog\Documents\Desenvolvimento\Nutrion\Nutrion\bin\Debug\net8.0\Nutrion.dll
+C:\Users\joaog\Documents\Desenvolvimento\Nutrion\Nutrion\bin\Debug\net8.0\Nutrion.pdb
+C:\Users\joaog\Documents\Desenvolvimento\Nutrion\Nutrion\obj\Debug\net8.0\Nutrion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\Documents\Desenvolvimento\Nutrion\Nutrion\obj\Debug\net8.0\Nutrion.AssemblyInfoInputs.cache
+C:\Users\joaog\Documents\Desenvolvimento\Nutrion\Nutrion\obj\Debug\net8.0\Nutrion.AssemblyInfo.cs
+C:\Users\joaog\Documents\Desenvolvimento\Nutrion\Nutrion\obj\Debug\net8.0\Nutrion.csproj.CoreCompileInputs.cache
+C:\Users\joaog\Documents\Desenvolvimento\Nutrion\Nutrion\obj\Debug\net8.0\Nutrion.dll
+C:\Users\joaog\Documents\Desenvolvimento\Nutrion\Nutrion\obj\Debug\net8.0\refint\Nutrion.dll
+C:\Users\joaog\Documents\Desenvolvimento\Nutrion\Nutrion\obj\Debug\net8.0\Nutrion.pdb
+C:\Users\joaog\Documents\Desenvolvimento\Nutrion\Nutrion\obj\Debug\net8.0\Nutrion.genruntimeconfig.cache
+C:\Users\joaog\Documents\Desenvolvimento\Nutrion\Nutrion\obj\Debug\net8.0\ref\Nutrion.dll
